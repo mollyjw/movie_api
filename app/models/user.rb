@@ -9,7 +9,7 @@ class User < ApplicationRecord
 
     def profile
         {
-            id: id
+            id: id, 
             first_name: first_name,
             last_name: last_name,
             nickname: nickname,

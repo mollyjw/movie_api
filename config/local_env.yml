@@ -1,0 +1,11 @@
+# Add account settings and API keys here.
+# This file should be listed in .gitignore to keep your settings secret!
+# Each entry gets set as a local environment variable.
+# This file overrides ENV variables in the Unix shell.
+# For example, setting:
+#   EMAIL_USERNAME: 'test@gmail.com'
+#   makes "test@gmail.com" available as ENV["GMAIL_USERNAME"]
+
+S3_ACCESS: 
+
+S3_SECRET:
