@@ -6,6 +6,6 @@
 #   EMAIL_USERNAME: 'test@gmail.com'
 #   makes "test@gmail.com" available as ENV["GMAIL_USERNAME"]
 
-S3_ACCESS: 
+S3_ACCESS: ''
 
-S3_SECRET:
+S3_SECRET: ''
